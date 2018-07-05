@@ -1,4 +1,4 @@
-FROM 10.162.197.95:5000/cse-jre:8u111
+FROM 100.125.0.94:20202/ocb0001687ef9a/dockerhub-java:8-jre-alpine
 
 RUN mkdir -p /maven/acmeair/
 
